@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 1,
+  "versionName": "1.0.0",
   "downloadUrl": "https://jakelen61732.github.io/useless/zmovies/update/com.kjaydev.zmovies-0.0.3-release.apk",
   "releaseNotes": "🎉 What's New:\n• Anime Player fixed\n• Added automatic server switch\n• My List bug fixed\n• Splash screen timeout issue resolved",
   "forceUpdate": true,
-  "minSupportedVersion": 2
+  "minSupportedVersion": 1
 }
