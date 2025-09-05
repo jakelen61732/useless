@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "downloadUrl": "https://jakelen61732.github.io/useless/zmovies/update/ZMovies_v1.0.0(1).apk",
-  "releaseNotes": "🎉 What's New:\n• Anime Player fixed\n• Added automatic server switch\n• My List bug fixed\n• Splash screen timeout issue resolved",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "downloadUrl": "https://dl.dropboxusercontent.com/scl/fi/iaot13cbzhdazssa21any/ZMovies_v1.0.1-2.apk?rlkey=e4bqetdfpcwfuo2m7oc6ovq5n&st=zvsjuxwb&dl=0",
+  "releaseNotes": "🎉 What's New:\n• Fix Some bugs\n• Optimize UI\n⚠️Update size around 40mb.\n",
   "forceUpdate": true,
-  "minSupportedVersion": 1
+  "minSupportedVersion": 2
 }
