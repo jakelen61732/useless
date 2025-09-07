@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "downloadUrl": "https://dl.dropboxusercontent.com/scl/fi/iaot13cbzhdazssa21any/ZMovies_v1.0.1-2.apk?rlkey=e4bqetdfpcwfuo2m7oc6ovq5n&st=zvsjuxwb&dl=0",
-  "releaseNotes": "• Fix Some bugs\n• Optimize UI\n\nUpdate size around 40mb.\nMake sure your internet connection is stable before to proceed.\nThank you!\n",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "downloadUrl": "https://dl.dropboxusercontent.com/scl/fi/hy82qyb14tpa25ujjzdjd/ZMovies_v1.0.2-3.apk?rlkey=5w16ujgjg4lgpd4ll0cawm6h2&st=b2doy9me&dl=0",
+  "releaseNotes": "• Fix Some bugs\n• Optimize UI\n\nUpdate size around 35mb.\nMake sure your internet connection is stable before to proceed.\nThank you!\n",
   "forceUpdate": true,
-  "minSupportedVersion": 2
+  "minSupportedVersion": 3
 }
